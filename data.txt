@@ -1,0 +1,13 @@
+IP       :     MODEL                              : ARCH :              OPERATING SYSTEM                     : HDD  :RAM :VIRT: CPU op-mode(s)
+
+127.0.0.1:Intel(R) Core(TM) i3-2330M CPU @ 2.20GHz:x86_64:Red Hat Enterprise Linux Server release 7.2 (Maipo):298.1G:2849:VT-x:32-bit, 64-bit
+
+127.0.0.1:Intel(R) Core(TM) i3-2330M CPU @ 2.20GHz:x86_64:Red Hat Enterprise Linux Server release 7.2 (Maipo):298.1G:2849:VT-x:32-bit, 64-bit
+
+192.168.1.8:Intel(R) Core(TM) i3-2330M CPU @ 2.20GHz:x86_64:Red Hat Enterprise Linux Server release 7.2 (Maipo):298.1G:2849:VT-x:32-bit, 64-bit
+
+
+
+
+
+
